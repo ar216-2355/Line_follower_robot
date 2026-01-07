@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Line_follower_robot")(type "KiCad")(uri "${KIPRJMOD}/Line_follower_robot.pretty")(options "")(descr ""))
+)
